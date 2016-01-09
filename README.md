@@ -1,4 +1,7 @@
 # SoundAware
+
+[![Circle CI](https://circleci.com/gh/dharbinja/SoundAware.svg?style=svg)](https://circleci.com/gh/dharbinja/SoundAware)
+
 Automatic sound settings for your phone based on your environment.
 
 This repo is for the Android version, other platforms to come later.
